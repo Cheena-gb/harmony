@@ -1,4 +1,6 @@
-# Reasons-to-be-Cheerful
+Reasons to be Cheerful  
+しあわせの理由
+----------------------------
 しあわせの理由(Reasons to be Cheerful)は、過去に存在したハッピーな配列のキーボードへの賞賛として設計されたキーボードです。  
 
 ## 特徴
