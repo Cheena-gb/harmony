@@ -32,4 +32,4 @@ Endgameの際はすべてのスイッチをはんだづけしてしまうこと�
 などの利点があります。
 
 ## ビルドガイド
-- Ver-beta
+- [Ver-beta](https://github.com/Cheena-gb/harmony/blob/main/docs/buildguide.md)
