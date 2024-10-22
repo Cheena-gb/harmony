@@ -40,9 +40,11 @@
   - Windows用キーマップが初期設定されています。
 - harmony_win.uf2
   - test版と同じフォルダにあります。
+  - Insecure ModeとBootmagicが無効化されています。
   - Windows用キーマップが初期設定されています。
 - harmony_mac.uf2
   - test版と同じフォルダにあります。
+  - Insecure ModeとBootmagicが無効化されています。
   - Mac用キーコードを使用したキーマップが初期設定されています。
   - 動作確認は現状行っていません。ご了承ください。
 - Vial
