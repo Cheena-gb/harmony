@@ -34,19 +34,19 @@
   - 必要に合わせて適当数購入してください。
 ## ファームウェアとソフトの確認
 - ファームウェア
-- harmony_test.uf2
-  - [firmwareフォルダ](/firmware)にあります。
-  - Insecure Mode[^1]でのビルドとなるため、組み立て時の導通チェックとして有用な構成になっています。
-  - Windows用キーマップが初期設定されています。
-- harmony_win.uf2
-  - test版と同じフォルダにあります。
-  - Insecure ModeとBootmagicが無効化[^2]されています。
-  - Windows用キーマップが初期設定されています。
-- harmony_mac.uf2
-  - test版と同じフォルダにあります。
-  - Insecure ModeとBootmagicが無効化[^2]されています。
-  - Mac用キーコードを使用したキーマップが初期設定されています。
-  - 動作確認は現状行っていません。ご了承ください[^3]
+  - harmony_test.uf2
+    - [firmwareフォルダ](/firmware)にあります。
+    - Insecure Mode[^1]でのビルドとなるため、組み立て時の導通チェックとして有用な構成になっています。
+    - Windows用キーマップが初期設定されています。
+  - harmony_win.uf2
+    - test版と同じフォルダにあります。
+    - Insecure ModeとBootmagicが無効化[^2]されています。
+    - Windows用キーマップが初期設定されています。
+  - harmony_mac.uf2
+    - test版と同じフォルダにあります。
+    - Insecure ModeとBootmagicが無効化[^2]されています。
+    - Mac用キーコードを使用したキーマップが初期設定されています。
+    - 動作確認は現状行っていません。ご了承ください[^3]
 - Vial
   - [Vial公式](https://vial.rocks/)から使用できるマッピングアプリです。
   - [アプリ版](https://get.vial.today/)の方がMatrix Testerの反応が早く、日本語配列にも対応しているのでお勧めです。
